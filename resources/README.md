@@ -1,6 +1,17 @@
 # Learning React Hooks Project
 
-## Egghead
+## ReactJS Documentation
 
-- [ ] https://egghead.io/courses/simplify-react-apps-with-react-hooks
-- [ ] https://egghead.io/courses/reusable-state-and-effects-with-react-hooks
+- Basic Hooks
+    - useState
+    - useEffect
+    - useContext
+
+- Additional Hooks
+  - useReducer
+  - useCallback
+  - useMemo
+  - useRef
+  - useImperativeHandle
+  - useLayoutEffect
+  - useDebugValue
