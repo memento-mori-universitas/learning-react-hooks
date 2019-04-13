@@ -1,3 +1,6 @@
 # Learning React Hooks Project
-      
-Links, reading notes and other resources are placed here
+
+## Egghead
+
+- [ ] https://egghead.io/courses/simplify-react-apps-with-react-hooks
+- [ ] https://egghead.io/courses/reusable-state-and-effects-with-react-hooks
